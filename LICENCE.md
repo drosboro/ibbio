@@ -1,9 +1,4 @@
-# IB Biology (HL)
-
-This site contains lesson plans and other resources for my IB Biology classes at Pacific Academy.
-
-
-## License
+# License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
